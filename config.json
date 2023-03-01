@@ -9,7 +9,7 @@
     "fotoDonasi": "./Screenshot_20221017-123330_1.jpg",
     "pathimg": "./7732bfe51150b0ad497e6e7460c36c56.jpg",
     "BotKey": "Apikey lu",
-    "audio_di_bagian_menu": "./menu.mp3",
+    "audio_di_bagian_menu": "./Lisabotz.opus",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
